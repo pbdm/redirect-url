@@ -1,0 +1,12 @@
+{
+  "name": "redirect url",
+  "version": "2014.8.13",
+  "description": "redirect url",
+  "permissions": ["webRequest","webRequestBlocking",
+                  "<all_urls>"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "manifest_version": 2
+}
